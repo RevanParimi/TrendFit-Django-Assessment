@@ -5,5 +5,5 @@ exclude =
   __pycache__,
   manage.py,
   settings.py,
-  ignore = E501, E128
+  ignore = E501(^), E128
   max-line-length = 100
