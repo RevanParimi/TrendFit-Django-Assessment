@@ -6,3 +6,4 @@ exclude =
   manage.py,
   settings.py,
   ignore = E501
+  max-line-length = 160
