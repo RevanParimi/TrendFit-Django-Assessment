@@ -5,4 +5,4 @@ exclude =
   __pycache__,
   manage.py,
   settings.py,
-  ignore = E128
+  ignore = E501
